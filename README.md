@@ -11,3 +11,12 @@ Hugo Storm - DHL and University of Bonn, Germany
 
 - [Intro slides](https://docs.google.com/presentation/d/1y5iono-CsO2mPmB-yU7PqYTYPmlMHBLME5afiJw-1Ls/edit?usp=sharing)
 - [Intro jupyter notebook](https://github.com/heckelei/PromotionskollegModule6800_2020/blob/master/labIntro.ipynb)
+
+### Links to Day 1 material 
+
+- [Day 1 slides]()
+- [Day 1 video part I - Intro to ML with OLS](https://youtu.be/0dJmWUDkzNY)
+- [Day 1 video part II - Overfitting and train/test split](https://youtu.be/_kFbZaCVNlc)
+- [Day 1 video part III - Penalized Regression](https://youtu.be/6KofZlteszw)
+- [Day 1 jupyter notebook for lecture and lab]()
+
