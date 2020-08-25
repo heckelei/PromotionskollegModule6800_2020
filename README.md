@@ -31,8 +31,8 @@ Hugo Storm - DHL and University of Bonn, Germany
 
 
 ### Links to Day 3 material 
-- [Day 3a slides - Interpretation part II](https://docs.google.com/presentation/d/1ajDVri8mjvihYwZm2jxYDSqsYmrTeqMfwfrr7LWsJlg/edit?usp=sharing)
-- [Day 3b slides - Neural Networks (also include day 4 slides](https://docs.google.com/presentation/d/1dxaM8_2Bz7BKPoFQQvIT-0v2SsA0NGLqrkqJxQYuGwA/edit?usp=sharing)
+- [Day 3a slides - Interpretation part II, Shapley values and other approaches](https://docs.google.com/presentation/d/1ajDVri8mjvihYwZm2jxYDSqsYmrTeqMfwfrr7LWsJlg/edit?usp=sharing)
+- [Day 3b slides - Neural Networks (also include part of day 4 slides)](https://docs.google.com/presentation/d/1dxaM8_2Bz7BKPoFQQvIT-0v2SsA0NGLqrkqJxQYuGwA/edit?usp=sharing)
 - [Day 3 video part I - Shap-values](https://youtu.be/D6M0V1YGQH4)
 - [Day 3 video part II - Other approaches to interpreting ML Models](https://youtu.be/_CV2DjXEgfw)
 - [Day 3 video part III - Intro Neural Networks and Autoencoder](https://youtu.be/3sldUdcAhX4)
