@@ -28,3 +28,11 @@ Hugo Storm - DHL and University of Bonn, Germany
 - [Day 2 video part III - Intro to interpreting ML Models](https://youtu.be/NGGad3aM0lw)
 - [Day 2 video part IV - Visualizing marginal effects](https://youtu.be/agjwrG2m1go)
 - [Day 2 jupyter notebook for lecture and lab](https://github.com/heckelei/PromotionskollegModule6800_2020/blob/master/6800_Day2.ipynb)
+
+
+### Links to Day 3 material 
+- [Day 3a slides - Interpretation part II](https://docs.google.com/presentation/d/1ajDVri8mjvihYwZm2jxYDSqsYmrTeqMfwfrr7LWsJlg/edit?usp=sharing)
+- [Day 3b slides - Neural Networks (also include day 4 slides](https://docs.google.com/presentation/d/1dxaM8_2Bz7BKPoFQQvIT-0v2SsA0NGLqrkqJxQYuGwA/edit?usp=sharing)
+- [Day 3 video part I - Shap-values](https://youtu.be/D6M0V1YGQH4)
+- [Day 3 video part II - Other approaches to interpreting ML Models](https://youtu.be/_CV2DjXEgfw)
+- [Day 3 video part III - Intro Neural Networks and Autoencoder](https://youtu.be/3sldUdcAhX4)
