@@ -42,3 +42,4 @@ Hugo Storm - DHL and University of Bonn, Germany
 ### Links to Day 4 material 
 - [Day 4a slides - Neural Networks (same as day 3)](https://docs.google.com/presentation/d/1dxaM8_2Bz7BKPoFQQvIT-0v2SsA0NGLqrkqJxQYuGwA/edit?usp=sharing)
 - [Day 4 video part I - Types of NN](https://youtu.be/T-PXzdHOZZE)
+- [Day 4 video part II - NN-applications](https://youtu.be/ERtXTGVoOVA)
