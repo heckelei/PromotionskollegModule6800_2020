@@ -36,3 +36,4 @@ Hugo Storm - DHL and University of Bonn, Germany
 - [Day 3 video part I - Shap-values](https://youtu.be/D6M0V1YGQH4)
 - [Day 3 video part II - Other approaches to interpreting ML Models](https://youtu.be/_CV2DjXEgfw)
 - [Day 3 video part III - Intro Neural Networks and Autoencoder](https://youtu.be/3sldUdcAhX4)
+- [Day 3-4 jupyter notebook for lecture and lab](https://github.com/heckelei/PromotionskollegModule6800_2020/blob/master/6800_Day3-4.ipynb)
