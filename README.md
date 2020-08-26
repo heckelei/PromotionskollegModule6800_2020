@@ -41,5 +41,8 @@ Hugo Storm - DHL and University of Bonn, Germany
 
 ### Links to Day 4 material 
 - [Day 4a slides - Neural Networks (same as day 3)](https://docs.google.com/presentation/d/1dxaM8_2Bz7BKPoFQQvIT-0v2SsA0NGLqrkqJxQYuGwA/edit?usp=sharing)
+- [Day 4b slides - ML and causal analysis (also include part of day 5 slides)]()
 - [Day 4 video part I - Types of NN](https://youtu.be/T-PXzdHOZZE)
 - [Day 4 video part II - NN-applications](https://youtu.be/ERtXTGVoOVA)
+- [Day 4 video part III - Review of causal identification issues](https://youtu.be/rraN7suQYps)
+- [Day 4 video part IV - True model selection with LASSO](https://youtu.be/dNTZ-w4-CyE)
