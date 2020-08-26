@@ -37,3 +37,8 @@ Hugo Storm - DHL and University of Bonn, Germany
 - [Day 3 video part II - Other approaches to interpreting ML Models](https://youtu.be/_CV2DjXEgfw)
 - [Day 3 video part III - Intro Neural Networks and Autoencoder](https://youtu.be/3sldUdcAhX4)
 - [Day 3-4 jupyter notebook for lecture and lab](https://github.com/heckelei/PromotionskollegModule6800_2020/blob/master/6800_Day3-4.ipynb)
+
+
+### Links to Day 4 material 
+- [Day 4a slides - Neural Networks (same as day 3)](https://docs.google.com/presentation/d/1dxaM8_2Bz7BKPoFQQvIT-0v2SsA0NGLqrkqJxQYuGwA/edit?usp=sharing)
+- [Day 4 video part I - Types of NN](https://youtu.be/T-PXzdHOZZE)
