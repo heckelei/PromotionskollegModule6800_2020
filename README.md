@@ -50,7 +50,7 @@ Hugo Storm - DHL and University of Bonn, Germany
 
 
 ### Links to Day 5 material 
-- [Day 5 slides - ML and causal analysis (same as day 4b)](https://docs.google.com/presentation/d/1wNfltZo-vuEHQHKhTKABMulkXLeGju7H7JxuN8YWf-0/edit?
+- [Day 5 slides - ML and causal analysis (same as day 4b)](https://docs.google.com/presentation/d/1wNfltZo-vuEHQHKhTKABMulkXLeGju7H7JxuN8YWf-0/edit?usp=sharing)
 - [Day 5 video part I - Intro to causal identification with ML](https://youtu.be/Vam7F5NCIn4)
 - [Day 5 video part II - Counterfactual Simulation, Matching, Causal Forest](https://youtu.be/b1uzoTIYHiU)
 - [Day 5 video part III - Double ML, Panel, Deep IV](https://youtu.be/tWmqwULSPWw)
