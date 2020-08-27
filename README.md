@@ -46,3 +46,12 @@ Hugo Storm - DHL and University of Bonn, Germany
 - [Day 4 video part II - NN-applications](https://youtu.be/ERtXTGVoOVA)
 - [Day 4 video part III - Review of causal identification issues](https://youtu.be/rraN7suQYps)
 - [Day 4 video part IV - True model selection with LASSO](https://youtu.be/dNTZ-w4-CyE)
+- [Day 4-5 jupyter notebook for lecture and lab](https://github.com/heckelei/PromotionskollegModule6800_2020/blob/master/6800_Day4-5.ipynb)
+
+
+### Links to Day 5 material 
+- [Day 5 slides - ML and causal analysis (same as day 4b)](https://docs.google.com/presentation/d/1wNfltZo-vuEHQHKhTKABMulkXLeGju7H7JxuN8YWf-0/edit?
+- [Day 5 video part I - Intro to causal identification with ML](https://youtu.be/Vam7F5NCIn4)
+- [Day 5 video part II - Counterfactual Simulation, Matching, Causal Forest](https://youtu.be/b1uzoTIYHiU)
+- [Day 5 video part III - Double ML, Panel, Deep IV](https://youtu.be/tWmqwULSPWw)
+- [Day 4-5 jupyter notebook for lecture and lab](https://github.com/heckelei/PromotionskollegModule6800_2020/blob/master/6800_Day4-5.ipynb)
