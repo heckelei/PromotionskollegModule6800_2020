@@ -1,4 +1,4 @@
-# PromotionskollegModule6800_2020
+# PromotionskollegModule6800_2020 - Machine Learning in Applied Economic Analysis
 Course material and links for Promotionskolleg module "Machine learning in applied economics"
 ### Instructors 
 Kathy Baylis - University of California, Santa Barbara, USA
